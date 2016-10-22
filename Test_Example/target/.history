@@ -1,0 +1,6 @@
+compile
+run
+println("Hello World")
+console
+compile
+run
